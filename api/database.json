@@ -1,0 +1,17 @@
+{
+    "inventory": [],
+    "types": [
+        {
+            "id": 1,
+            "description": "Apparel"  
+        },
+        {
+            "id": 2,
+            "description": "Consumables"  
+        },
+        {
+            "id": 3,
+            "description": "Vaping Equipment"  
+        }
+    ]
+}
